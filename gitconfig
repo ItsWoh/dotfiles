@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = anhvu.duong.jp@gmail.com
+	name = Anh Vu Duong
